@@ -105,4 +105,14 @@
     <string name="corvus_themes_title">Raven Themes</string>
     <string name="corvus_themes_summary">Lets get some colors to Fly High</string>
 
+    <!-- About phone screen, Corvus version -->
+    <string name="corvus_version">Corvus version</string>
+    <string name="corvus_version_default">Unknown</string>
+    <string name="keywords_corvus_version">corvus version</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
 </resources>

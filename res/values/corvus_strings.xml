@@ -101,4 +101,8 @@
     <string name="fod_gesture_title">Screen off fingerprint</string>
     <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
 
+    <!-- Themes -->
+    <string name="corvus_themes_title">Raven Themes</string>
+    <string name="corvus_themes_summary">Lets get some colors to Fly High</string>
+
 </resources>

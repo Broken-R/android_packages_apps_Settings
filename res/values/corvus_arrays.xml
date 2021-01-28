@@ -23,38 +23,4 @@
         <item>@string/security_settings_fingerprint_enroll_find_sensor_message_left</item>
         <item>@string/security_settings_fingerprint_enroll_find_sensor_message_right</item>
     </string-array>
-
-    <!-- Vibration patterns -->
-    <string-array name="vibration_pattern_entries">
-        <item>@string/pattern_dzzz_dzzz</item>
-        <item>@string/pattern_dzzz_da</item>
-        <item>@string/pattern_mm_mm_mm</item>
-        <item>@string/pattern_da_da_dzzz</item>
-        <item>@string/pattern_da_dzzz_da</item>
-    </string-array>
-    <string-array name="vibration_pattern_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-
-    <!-- Settings dashboard icon style -->
-    <string-array name="theming_settings_dashboard_icons_entries" translatable="false">
-        <item>@string/theming_settings_dashboard_icons_default2</item>
-        <item>@string/theming_settings_dashboard_icons_default_accent2</item>
-        <item>@string/theming_settings_dashboard_icons_plain</item>
-        <item>@string/theming_settings_dashboard_icons_plain_accent</item>
-        <item>@string/theming_settings_dashboard_icons_default_oneplus</item>
-    </string-array>
-
-    <string-array name="theming_settings_dashboard_icons_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-
 </resources>
